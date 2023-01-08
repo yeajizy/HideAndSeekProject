@@ -8,7 +8,7 @@
 <br/>
 
 ## Description
-전통주 판매 및 전통주 구독 서비스 쇼핑몰
+전통주 판매 및 전통주 구독 서비스 쇼핑몰<br/>
 한국에서 제조하는 여러가지 술들을 종합적으로 모아서 판매하는 쇼핑몰을 만들어 보고 싶었고, 요즘 트렌드에 맞게 구독 서비스도 포함시켜 단순히 구매하기만 할 수 있는 쇼핑몰이 아닌 정기적으로 구매를 하는 고객층을 확보하는 홈페이지를 제작하고 싶은 동기를 가지게 됨.
 
 
@@ -17,23 +17,22 @@
 
 
 
-## Description
+## Environment
 <br/>
-> JAVA(jdk-11.0.15.1)
-> Apache Tomcat 9.0.65
-> Oracle Database Express Edition (XE) Release 11.2.0.2.0
-> JDBC
-> Spring Tool Suite 3 - Ver. 3.9.17
-> Oracle SQL Developer - Ver. 22.2.0.173
+- JAVA(jdk-11.0.15.1)
+- Apache Tomcat 9.0.65
+- Oracle Database Express Edition (XE) Release 11.2.0.2.0
+- Spring Tool Suite 3 - Ver. 3.9.17
+- Oracle SQL Developer - Ver. 22.2.0.173
 
 
 ## API
 <br/>
-> BootStrap
-> BootStrap icons
-> Google Fonts
-> noonnu Fonts
-> Kakao postcode
+- BootStrap
+- BootStrap icons
+- Google Fonts
+- noonnu Fonts
+- Kakao postcode
 
 
 
