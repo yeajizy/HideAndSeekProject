@@ -19,20 +19,20 @@
 
 ## Environment
 <br/>
-- JAVA(jdk-11.0.15.1)
-- Apache Tomcat 9.0.65
-- Oracle Database Express Edition (XE) Release 11.2.0.2.0
-- Spring Tool Suite 3 - Ver. 3.9.17
-- Oracle SQL Developer - Ver. 22.2.0.173
+- JAVA(jdk-11.0.15.1)<br/>
+- Apache Tomcat 9.0.65<br/>
+- Oracle Database Express Edition (XE) Release 11.2.0.2.0<br/>
+- Spring Tool Suite 3 - Ver. 3.9.17<br/>
+- Oracle SQL Developer - Ver. 22.2.0.173<br/>
 
 
 ## API
 <br/>
-- BootStrap
-- BootStrap icons
-- Google Fonts
-- noonnu Fonts
-- Kakao postcode
+- BootStrap<br/>
+- BootStrap icons<br/>
+- Google Fonts<br/>
+- noonnu Fonts<br/>
+- Kakao postcode<br/>
 
 
 
